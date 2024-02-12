@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
