@@ -38,4 +38,4 @@ Based on various meteorological surveys and people's styles, the service provide
 
 
 ## Contact
-Created by Shubham & Bhuika
+Created by Shubham & Bhumika
