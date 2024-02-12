@@ -38,4 +38,4 @@ Based on various meteorological surveys and people's styles, the service provide
 
 
 ## Contact
-Created by [@bitz-chauhan] - feel free to contact me!
+Created by Shubham & Bhuika
